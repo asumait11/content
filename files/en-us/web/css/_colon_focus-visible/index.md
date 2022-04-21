@@ -118,4 +118,4 @@ It may not be obvious as to why the focus indicator is appearing and disappearin
 
 - {{CSSxRef(":focus")}}
 - {{CSSxRef(":focus-within")}}
-- [A polyfill for `:focus-visible`](https://github.com/WICG/focus-visible)
+- [A polyfill for `:focus-visible`] (https://github.com/WICG/focus-visible)
